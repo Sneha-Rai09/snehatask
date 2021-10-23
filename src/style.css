@@ -1,0 +1,13 @@
+#main {
+  margin: 100px 8px;
+}
+#mytable td{
+  padding: 15px 15px;
+}
+#img-div {
+ margin-left: 500px;
+ max-width : 300px;
+}
+#title{
+  font-family : cursive;
+}
